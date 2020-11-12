@@ -1,0 +1,10 @@
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\obj\Debug\OOP - Lab1.csprojAssemblyReference.cache
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\obj\Debug\OOP___Lab1.Properties.Resources.resources
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\obj\Debug\OOP - Lab1.csproj.GenerateResource.cache
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\obj\Debug\OOP - Lab1.csproj.CoreCompileInputs.cache
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\bin\Debug\OOP___Lab1.exe.config
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\bin\Debug\OOP___Lab1.exe
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\bin\Debug\OOP___Lab1.pdb
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\obj\Debug\OOP___Lab1.exe
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\obj\Debug\OOP___Lab1.pdb
+E:\Projects\Rider\Lab1\OOP - Lab1\OOP - Lab1\obj\Debug\OOP___Lab1.Form1.resources

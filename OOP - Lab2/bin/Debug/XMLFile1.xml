@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SubmarineDataBase>
+    <sub ID = "1"
+         Country ="USA"
+         Type ="SSBN"
+         Class ="Ohio"
+         Year ="1981"
+         Nuclear ="Yes"
+         Length="170m">
+    </sub>
+    <sub ID = "2"
+         Country ="USSR"
+         Type ="SSBN"
+         Class ="Typhoon"
+         Year ="1981"
+         Nuclear ="Yes"
+         Length="175m">
+    </sub>
+    <sub ID = "3"
+         Country ="USA"
+         Type ="SSN"
+         Class ="Los Angeles"
+         Year ="1976"
+         Nuclear ="Yes"
+         Length="110m">
+    </sub>
+    <sub ID = "4"
+         Country ="USSR"
+         Type ="SSN"
+         Class ="Akula"
+         Year ="1984"
+         Nuclear ="Yes"
+         Length="113m">
+    </sub>
+    <sub ID = "5"
+         Country ="USSR"
+         Type ="SSN"
+         Class ="Kilo"
+         Year ="1980"
+         Nuclear ="No"
+         Length="74m">
+    </sub>
+    <sub ID = "6"
+         Country ="UK"
+         Type ="SSN"
+         Class ="Trafalgar"
+         Year ="1983"
+         Nuclear ="Yes"
+         Length="86m">
+    </sub>
+    <sub ID = "7"
+         Country ="Germany"
+         Type ="SSN"
+         Class ="Type 212"
+         Year ="1998"
+         Nuclear ="No"
+         Length="56m">
+    </sub>
+    <sub ID = "8"
+         Country ="Ukraine"
+         Type ="SSN"
+         Class ="Foxtrot"
+         Year ="1958"
+         Nuclear ="No"
+         Length="90">
+    </sub>
+</SubmarineDataBase>
